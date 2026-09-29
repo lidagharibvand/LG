@@ -1,0 +1,201 @@
+id,age,sex,zip,insurance,portal,visits_12mo,a1c,sbp,temp_f,pain,satisfaction,responded,followup
+1,50,Male,92324,Commercial,Yes,2,7.0,110,98.3,Mild,5,Yes,Yes
+2,38,Male,92373,Commercial,Yes,2,6.0,118,97.4,No pain,5,Yes,Yes
+3,56,Female,92354,Medicaid,Yes,3,5.9,119,99.1,Moderate,4,No,Yes
+4,52,Male,92324,Commercial,Yes,4,6.8,119,98.9,Severe,4,No,Yes
+5,31,Female,92354,Medicaid,Yes,3,7.0,91,98.5,Mild,4,No,Yes
+6,74,Female,92354,Medicare,No,4,6.2,158,98.7,No pain,4,No,Yes
+7,79,Female,92324,Medicaid,No,1,7.2,118,97.5,Severe,4,No,Yes
+8,66,Male,92324,Medicare,No,1,6.2,110,98.0,Mild,4,No,Yes
+9,55,Male,92373,Medicaid,No,1,4.9,145,98.3,Moderate,4,No,No
+10,71,Female,92324,Medicare,Yes,2,6.1,123,98.1,Severe,5,No,Yes
+11,32,Male,92411,Commercial,Yes,0,7.7,120,97.7,No pain,4,Yes,No
+12,51,Male,92411,Commercial,Yes,5,5.8,125,99.0,Mild,5,Yes,No
+13,92,Female,92373,Commercial,No,1,5.6,161,97.9,Mild,3,No,No
+14,47,Female,92411,Commercial,Yes,3,6.7,133,97.9,No pain,4,No,No
+15,34,Male,92354,Commercial,Yes,2,6.3,102,98.5,No pain,5,No,Yes
+16,63,Male,92354,Commercial,Yes,1,7.2,144,98.1,No pain,4,No,Yes
+17,72,Female,92324,Medicare,No,4,6.1,113,97.1,No pain,3,No,No
+18,58,Male,92411,Commercial,No,2,5.9,143,97.1,Severe,3,No,Yes
+19,65,Female,92411,Medicare,Yes,1,7.4,148,98.2,Moderate,4,Yes,No
+20,63,Male,92373,Medicare,No,2,6.2,140,98.4,Mild,3,No,No
+21,49,Female,92354,Commercial,Yes,4,8.3,148,97.8,No pain,4,No,Yes
+22,42,Male,92324,Medicaid,No,1,6.7,124,98.6,No pain,4,No,Yes
+23,51,Male,92411,Medicare,Yes,2,8.3,121,98.8,Moderate,5,No,Yes
+24,82,Female,92354,Medicare,No,3,5.7,134,98.9,No pain,3,No,Yes
+25,39,Female,92324,Commercial,No,1,7.1,126,99.1,Moderate,3,No,No
+26,78,Female,92354,Medicare,Yes,6,4.9,125,98.6,Mild,4,No,Yes
+27,42,Male,92354,Commercial,Yes,2,6.5,114,98.8,Mild,4,Yes,No
+28,33,Female,92324,Commercial,Yes,1,5.9,95,97.5,Severe,5,Yes,Yes
+29,63,Female,92373,Commercial,Yes,2,8.1,115,98.8,No pain,3,No,Yes
+30,73,Female,92324,Medicare,No,0,6.3,116,98.8,Moderate,5,No,No
+31,46,Female,92373,Commercial,Yes,2,7.4,129,97.8,Mild,5,Yes,No
+32,42,Female,92324,Medicaid,Yes,0,6.8,121,97.6,Moderate,4,No,No
+33,89,Female,92411,Medicare,Yes,5,8.5,132,97.5,Mild,5,Yes,No
+34,51,Female,92373,Commercial,Yes,0,6.9,133,98.1,Mild,4,Yes,Yes
+35,43,Female,92324,Commercial,No,2,6.6,111,99.0,Moderate,3,No,Yes
+36,47,Male,92354,Commercial,No,1,6.3,127,98.9,No pain,4,No,Yes
+37,53,Female,92354,Medicaid,No,2,7.4,128,98.5,No pain,3,No,No
+38,47,Male,92354,Commercial,No,4,5.6,126,98.6,Moderate,2,No,No
+39,50,Female,92411,Uninsured,Yes,2,6.6,144,98.3,No pain,5,No,Yes
+40,45,Female,92324,Commercial,Yes,3,5.3,138,98.3,Moderate,3,No,Yes
+41,50,Female,92354,Medicaid,No,1,7.6,135,98.2,No pain,5,No,No
+42,75,Female,92354,Commercial,Yes,3,6.7,141,98.2,No pain,5,Yes,Yes
+43,52,Female,92411,Commercial,No,3,5.9,115,99.1,Moderate,4,No,Yes
+44,54,Male,92324,Uninsured,No,3,5.9,127,98.1,No pain,4,No,Yes
+45,41,Male,92373,Commercial,Yes,1,7.9,100,98.1,Moderate,5,No,No
+46,49,Female,92324,Commercial,No,3,6.2,103,98.7,Severe,4,No,No
+47,59,Male,92411,Medicaid,Yes,0,5.8,126,97.9,No pain,5,Yes,No
+48,42,Male,92411,Medicare,Yes,1,8.9,104,97.9,No pain,4,Yes,Yes
+49,65,Female,92373,Medicare,Yes,1,6.3,115,98.9,Mild,4,No,Yes
+50,92,Male,92354,Medicare,No,1,7.7,120,98.4,Moderate,4,No,No
+51,51,Male,92354,Medicaid,Yes,2,5.4,109,97.8,No pain,4,No,Yes
+52,29,Male,92373,Commercial,Yes,1,7.7,105,97.5,Mild,5,Yes,Yes
+53,74,Male,92373,Medicare,No,1,5.3,133,98.5,No pain,5,No,Yes
+54,60,Female,92373,Commercial,Yes,1,7.3,120,97.4,Severe,5,Yes,No
+55,69,Female,92373,Medicare,No,4,5.6,131,98.1,No pain,5,No,No
+56,68,Female,92324,Commercial,Yes,3,5.9,121,98.7,Severe,3,No,Yes
+57,81,Female,92411,Commercial,Yes,2,5.0,127,98.4,Moderate,4,No,Yes
+58,51,Female,92373,Commercial,Yes,4,6.0,119,97.6,Mild,4,No,No
+59,45,Female,92324,Medicare,Yes,2,7.0,109,98.6,Mild,5,No,Yes
+60,67,Female,92324,Medicare,Yes,3,6.4,126,99.7,No pain,5,Yes,Yes
+61,84,Female,92373,Medicare,Yes,5,7.9,133,97.8,Mild,3,No,Yes
+62,30,Female,92324,Commercial,Yes,1,5.8,114,97.8,Mild,4,Yes,Yes
+63,69,Female,92324,Medicare,Yes,6,5.6,139,98.1,Mild,3,No,Yes
+64,52,Female,92411,Medicaid,Yes,3,7.1,156,97.1,No pain,5,No,No
+65,70,Male,92373,Medicare,No,3,9.1,140,97.8,Mild,3,No,Yes
+66,53,Male,92373,Commercial,No,3,5.3,122,97.5,No pain,4,No,Yes
+67,74,Male,92324,Commercial,No,5,4.6,142,99.3,No pain,2,No,No
+68,61,Male,92354,Commercial,Yes,2,6.8,117,98.0,Severe,3,No,Yes
+69,56,Female,92411,Commercial,Yes,2,6.8,116,97.4,No pain,5,No,Yes
+70,48,Female,92373,Uninsured,Yes,2,6.3,90,98.0,No pain,4,Yes,Yes
+71,82,Male,92411,Medicare,No,3,6.7,126,98.1,Moderate,4,No,Yes
+72,84,Male,92324,Medicare,No,4,5.9,155,98.8,Mild,4,No,Yes
+73,65,Male,92373,Medicaid,No,2,4.8,112,98.6,No pain,3,No,Yes
+74,58,Female,92411,Commercial,Yes,1,5.4,134,97.5,Mild,4,Yes,Yes
+75,80,Female,92324,Commercial,Yes,6,5.9,134,97.7,Moderate,4,No,Yes
+76,45,Male,92354,Commercial,Yes,0,6.6,117,98.9,Mild,3,No,No
+77,35,Male,92354,Commercial,Yes,1,6.7,117,97.1,Severe,5,No,Yes
+78,73,Female,92354,Commercial,No,0,6.5,140,98.7,No pain,4,No,Yes
+79,38,Male,92411,Commercial,Yes,3,6.7,120,98.8,No pain,5,Yes,Yes
+80,64,Male,92324,Commercial,No,1,5.5,157,98.5,No pain,2,No,Yes
+81,60,Female,92354,Commercial,Yes,0,7.1,132,99.2,Moderate,4,Yes,No
+82,33,Male,92354,Commercial,Yes,0,5.9,108,98.7,Mild,4,No,No
+83,48,Female,92324,Medicaid,Yes,0,6.2,121,99.4,Mild,5,Yes,Yes
+84,45,Male,92373,Commercial,Yes,2,6.4,125,97.5,No pain,5,No,No
+85,43,Male,92354,Commercial,Yes,1,7.7,115,97.8,No pain,4,Yes,Yes
+86,36,Female,92411,Uninsured,Yes,3,5.9,105,98.5,No pain,5,Yes,Yes
+87,57,Male,92411,Commercial,Yes,2,5.3,129,98.9,Moderate,5,No,No
+88,42,Female,92373,Commercial,Yes,0,6.9,103,98.5,No pain,5,Yes,Yes
+89,48,Female,92354,Uninsured,No,1,6.7,114,97.9,Mild,4,No,Yes
+90,73,Female,92324,Medicare,No,4,5.6,117,97.9,No pain,4,No,No
+91,50,Male,92324,Commercial,Yes,2,6.8,141,98.9,Mild,5,Yes,Yes
+92,39,Male,92324,Uninsured,Yes,3,6.2,92,98.8,Mild,3,Yes,No
+93,63,Female,92354,Medicaid,No,4,6.7,117,97.8,Mild,3,No,No
+94,64,Male,92411,Medicaid,No,3,6.3,127,97.8,No pain,5,No,No
+95,60,Male,92373,Medicare,Yes,4,6.8,143,97.9,Moderate,4,Yes,Yes
+96,60,Female,92354,Commercial,Yes,3,5.8,138,97.3,No pain,4,No,Yes
+97,43,Male,92354,Medicaid,Yes,0,7.8,116,98.0,Moderate,3,No,No
+98,35,Female,92373,Medicaid,Yes,3,7.9,113,97.4,Moderate,4,No,Yes
+99,67,Male,92324,Medicare,No,4,7.0,133,98.0,Mild,4,No,Yes
+100,58,Male,92324,Commercial,Yes,2,5.3,142,98.4,Mild,4,Yes,Yes
+101,74,Female,92354,Commercial,No,1,6.3,127,98.0,Moderate,4,No,No
+102,56,Female,92324,Commercial,Yes,1,6.3,116,97.9,No pain,5,Yes,Yes
+103,69,Female,92324,Medicare,Yes,5,6.8,137,98.7,No pain,4,Yes,Yes
+104,69,Female,92324,Commercial,No,3,7.3,139,98.8,Mild,5,No,Yes
+105,44,Male,92324,Commercial,Yes,2,7.7,118,99.0,Mild,5,No,Yes
+106,31,Female,92324,Medicaid,Yes,2,4.6,119,99.0,Mild,4,Yes,Yes
+107,53,Female,92354,Commercial,Yes,3,6.9,137,99.0,Mild,5,No,Yes
+108,67,Female,92354,Medicare,Yes,2,6.8,107,98.6,No pain,4,No,No
+109,24,Male,92324,Medicaid,Yes,1,7.1,111,98.4,No pain,5,Yes,No
+110,69,Male,92373,Medicare,No,1,5.6,132,98.8,No pain,3,No,No
+111,53,Male,92411,Commercial,Yes,2,6.3,105,98.0,No pain,2,No,No
+112,70,Male,92411,Commercial,No,1,7.3,146,97.7,No pain,5,No,No
+113,33,Female,92354,Commercial,No,1,5.3,147,97.8,No pain,4,No,No
+114,54,Female,92324,Medicaid,Yes,3,5.2,117,98.6,Mild,5,Yes,Yes
+115,44,Male,92324,Commercial,Yes,1,6.9,133,98.4,Mild,4,No,No
+116,69,Male,92373,Medicare,No,3,6.6,128,98.2,Mild,3,No,No
+117,23,Female,92324,Commercial,Yes,2,10.3,122,97.3,Mild,4,No,Yes
+118,69,Female,92324,Medicare,Yes,2,7.1,117,98.3,No pain,3,No,No
+119,50,Male,92324,Uninsured,No,2,7.6,123,99.1,Moderate,4,No,No
+120,26,Female,92324,Uninsured,No,3,5.6,101,97.8,Severe,4,No,No
+121,30,Male,92373,Commercial,Yes,1,6.6,89,98.0,Mild,5,Yes,Yes
+122,32,Female,92411,Commercial,Yes,1,5.7,113,98.2,No pain,4,No,No
+123,52,Male,92354,Commercial,Yes,0,7.4,129,98.7,Mild,5,Yes,Yes
+124,89,Female,92324,Medicare,No,3,5.7,149,99.0,No pain,4,No,Yes
+125,46,Male,92354,Commercial,No,1,5.3,112,97.7,Mild,4,No,Yes
+126,74,Female,92324,Commercial,No,1,6.5,146,98.3,No pain,4,No,No
+127,79,Female,92373,Commercial,Yes,2,6.0,142,96.9,Mild,3,Yes,Yes
+128,46,Female,92354,Commercial,Yes,1,6.8,107,98.5,Mild,5,Yes,Yes
+129,29,Female,92354,Medicaid,Yes,0,8.3,106,98.8,Mild,5,No,Yes
+130,48,Female,92324,Commercial,Yes,2,5.9,135,99.4,Moderate,4,Yes,Yes
+131,75,Male,92324,Medicare,No,2,9.3,138,97.4,No pain,4,No,Yes
+132,22,Female,92324,Commercial,Yes,1,6.8,91,98.6,No pain,4,Yes,Yes
+133,81,Male,92324,Medicaid,Yes,1,5.7,140,99.2,Moderate,4,Yes,No
+134,77,Female,92324,Medicare,No,3,6.9,151,97.9,No pain,5,No,Yes
+135,46,Male,92373,Medicaid,No,2,7.4,138,97.3,Mild,4,No,No
+136,53,Female,92373,Commercial,Yes,2,8.1,116,97.8,Mild,4,No,No
+137,61,Female,92354,Commercial,Yes,0,6.3,110,98.2,Mild,4,No,No
+138,64,Male,92324,Commercial,No,2,6.0,91,97.8,Mild,4,No,No
+139,43,Female,92354,Commercial,Yes,0,7.0,108,97.4,Mild,5,Yes,Yes
+140,41,Male,92324,Medicaid,Yes,5,7.4,115,97.7,No pain,5,No,Yes
+141,54,Male,92324,Medicaid,Yes,0,7.2,132,97.4,No pain,3,No,No
+142,80,Male,92373,Medicare,Yes,2,5.3,103,98.8,No pain,5,No,No
+143,74,Male,92354,Medicare,No,1,6.9,121,98.4,No pain,3,No,Yes
+144,32,Female,92324,Medicaid,Yes,0,5.7,108,97.6,No pain,4,Yes,No
+145,72,Male,92354,Commercial,No,2,5.3,122,98.3,No pain,4,No,No
+146,39,Male,92354,Commercial,No,1,6.8,88,98.1,Moderate,5,No,No
+147,62,Female,92324,Commercial,Yes,1,5.5,112,98.7,Severe,5,Yes,No
+148,43,Female,92411,Uninsured,No,0,4.9,144,98.6,Moderate,3,No,Yes
+149,57,Female,92324,Commercial,Yes,2,5.8,103,98.0,Mild,4,No,Yes
+150,58,Female,92324,Medicaid,Yes,0,4.6,119,97.0,Mild,4,Yes,Yes
+151,72,Male,92324,Medicare,Yes,1,7.0,129,98.3,Moderate,3,Yes,Yes
+152,52,Female,92373,Commercial,Yes,2,5.7,119,97.7,No pain,3,No,Yes
+153,28,Female,92324,Commercial,Yes,2,5.5,105,97.9,Mild,4,No,No
+154,42,Female,92354,Commercial,Yes,1,5.8,91,99.0,Moderate,4,Yes,No
+155,57,Male,92373,Uninsured,No,2,7.7,121,98.7,Severe,4,No,Yes
+156,87,Female,92373,Medicaid,No,2,6.2,141,97.5,Moderate,2,No,Yes
+157,33,Male,92373,Medicare,Yes,1,6.7,135,98.8,Severe,4,Yes,No
+158,44,Female,92373,Commercial,Yes,1,6.6,132,98.5,No pain,4,No,No
+159,62,Female,92324,Commercial,No,0,7.8,117,99.6,Mild,3,No,No
+160,92,Male,92373,Medicare,No,3,8.0,140,98.2,Mild,3,No,No
+161,50,Male,92324,Medicare,No,3,5.8,109,99.0,No pain,4,No,No
+162,21,Female,92373,Commercial,Yes,0,5.9,88,98.4,Mild,4,Yes,Yes
+163,47,Female,92373,Commercial,Yes,0,7.7,112,96.5,Moderate,4,Yes,Yes
+164,87,Female,92411,Medicare,No,0,6.1,160,97.9,No pain,3,No,Yes
+165,58,Female,92324,Commercial,Yes,1,6.4,124,98.5,No pain,3,No,No
+166,73,Male,92324,Medicare,No,6,6.2,119,98.0,No pain,4,No,No
+167,86,Male,92354,Commercial,No,2,6.9,137,98.4,No pain,3,No,No
+168,64,Female,92354,Medicaid,No,2,4.6,107,97.7,Severe,4,No,No
+169,73,Female,92411,Medicare,No,1,4.8,142,98.4,Mild,5,No,Yes
+170,54,Female,92354,Commercial,Yes,2,8.0,108,98.2,No pain,5,No,Yes
+171,58,Male,92411,Commercial,Yes,5,6.8,136,97.4,Severe,4,No,Yes
+172,43,Male,92324,Medicare,Yes,2,7.6,133,98.8,No pain,5,No,No
+173,60,Female,92411,Commercial,Yes,5,6.9,125,98.2,Mild,4,No,Yes
+174,73,Female,92373,Medicare,No,2,8.0,136,99.0,Moderate,3,No,Yes
+175,87,Female,92354,Medicare,No,3,5.9,129,98.5,Mild,5,No,No
+176,54,Female,92373,Uninsured,Yes,2,6.1,110,96.9,Moderate,4,Yes,Yes
+177,69,Female,92324,Medicare,No,1,6.5,126,98.0,Moderate,2,No,No
+178,37,Male,92373,Medicaid,Yes,0,6.0,111,98.4,Mild,5,Yes,Yes
+179,23,Male,92324,Commercial,Yes,0,6.0,107,98.6,Moderate,5,No,No
+180,77,Male,92324,Medicare,No,0,6.7,101,97.9,No pain,3,No,Yes
+181,42,Male,92373,Medicaid,No,2,6.7,106,98.0,Severe,3,No,Yes
+182,38,Male,92354,Commercial,No,1,5.4,123,98.0,Mild,4,No,Yes
+183,62,Female,92354,Uninsured,Yes,3,7.3,144,98.3,No pain,3,Yes,No
+184,70,Female,92411,Medicare,No,3,5.1,101,97.1,Mild,4,No,Yes
+185,68,Female,92373,Medicare,No,1,8.4,117,98.2,No pain,4,No,No
+186,71,Male,92373,Medicaid,No,1,6.2,143,99.1,Mild,4,No,No
+187,57,Male,92354,Medicare,Yes,1,4.6,122,98.4,Mild,5,Yes,No
+188,69,Female,92411,Medicare,Yes,3,8.0,138,98.2,No pain,4,Yes,Yes
+189,57,Female,92324,Commercial,No,1,6.8,131,98.7,Mild,4,No,No
+190,63,Male,92373,Commercial,No,3,5.8,126,98.6,No pain,3,No,Yes
+191,40,Male,92354,Uninsured,Yes,1,6.2,92,99.4,No pain,4,No,Yes
+192,49,Male,92411,Medicaid,Yes,0,5.9,96,99.1,No pain,4,Yes,Yes
+193,55,Female,92324,Commercial,Yes,0,6.4,144,98.2,Mild,4,No,Yes
+194,67,Female,92354,Medicare,No,2,7.7,143,99.1,No pain,4,No,No
+195,79,Female,92373,Medicaid,No,2,7.5,157,98.1,Mild,4,No,Yes
+196,92,Female,92354,Medicare,No,2,5.4,137,99.4,Severe,4,No,Yes
+197,49,Female,92324,Medicare,Yes,0,7.4,129,98.9,Moderate,3,No,Yes
+198,33,Female,92324,Commercial,Yes,1,6.7,98,98.7,No pain,5,Yes,Yes
+199,62,Female,92411,Commercial,Yes,1,5.3,111,98.2,Mild,5,Yes,Yes
+200,89,Female,92373,Commercial,No,3,6.5,119,98.4,Severe,5,No,No
