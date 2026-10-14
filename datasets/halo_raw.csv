@@ -1,0 +1,61 @@
+id,site,female,age,BMI,angina,sbp0,LDL0
+H0915,South,0,66,25.1,None,154,89.1
+H1775,Central,0,60,31.6,None,127,137.8
+H0707,Central,1,57,29.7,Atypical,149,176.2
+H1022,Central,0,67,28.7,Non-anginal,151,81.8
+H0811,North,0,63,33.3,None,N/A,35
+H0252,Central,1,52,25.5,Atypical,119,127.6
+H1261,North,1,61,30.2,None,137,178.5
+H1877,North,0,45,32.4,Non-anginal,N/A,184.4
+H1280,North,1,999,27.5,Non-anginal,112,180
+H0308,Central,0,56,35,none,136,146.9
+H0771,South,1,75,33.4,Non-anginal,151,128.1
+H1297,North,0,60,33.3,None,143,138.9
+H1072,North,1,54,21.8,None,N/A,140
+H0924,North,1,68,30,Typcial,140,145.2
+H1979,South,0,64,24.8,None,92,115.6
+H1912,North,1,70,24.8,Typcial,138,60.1
+H1536,Central,1,61,31.2,None,127,122.6
+H0153,North,0,54,-9,Non-anginal,128,128.7
+H0707,Central,1,57,29.7,Atypical,149,176.2
+H1431,South,0,999,28.9,Typical,131,188.4
+H0245,South,0,72,34.6,Typical,124,178.8
+H0718,Central,0,59,33.8,Typical,143,97.4
+H1584,central,1,72,21.6,Atypical,143,97.3
+H0585,North,1,58,25.8,Typical,96,158
+H1981,North,0,78,27,Non anginal,143,207
+H1375,South,0,58,27.8,Non-anginal,135,138.6
+H0372,Central,1,65,20.7,Typical,116,130.6
+H1525,North,0,67,23.7,Non-anginal,98,167.7
+H1616,North ,1,72,23.5,None,114,196.8
+H0916,South,1,58,32.5,none,141,141.3
+H0604,Central,1,70,34.4,None,133,131.9
+H1911,Central,0,67,27.6,Typcial,153,202.3
+H0007,CENTRAL,0,49,31.5,None,110,137.2
+H0417,Central,0,61,28.8,Typical,114,137.7
+H0688,North,0,62,27.7,Typical,138,179.8
+H1102,CENTRAL,0,74,18,Non-anginal,135,138.3
+H1302,Central,1,77,21.1,Non anginal,132,148.1
+H1002,North,0,63,27,None,115,85.6
+H1225,Central,0,57,27.6,Atypical,146,159.3
+H0917,South,1,65,31.4,Non-anginal,136,199.1
+H1262,North,0,57,27.2,Non-anginal,132,184.7
+H0752,Central,0,62,32.9,None,147,153.7
+H1213,Central,1,53,25.4,Atypical,145,188.1
+H0351,Central,1,62,28.1,None,181,131.3
+H0417,central,0,61,28.8,Typical,114,137.7
+H0656,Central,0,61,29.8,None,120,173.3
+H1294,south,0,55,25.8,None,105,193.3
+H1956,Central,0,59,36.7,Non-anginal,129,121.8
+H0346,Central,0,64,25.9,none,129,187.1
+H0809,central,1,53,30.1,Atypical,104,116.7
+H0816,South,1,82,27.5,Atypical,147,159.5
+H1947,South ,1,65,21.2,None,101,140.1
+H1387,North,1,65,29.2,Non-anginal,109,104.1
+H0172,NORTH,0,78,31,Atypical,136,183.7
+H0585,North,1,58,25.8,Typical,N/A,158
+H0158,North,0,72,-9,Typical,145,183.5
+H0717,Central ,0,70,28.8,None,127,198.3
+H1790,North,1,69,19,Atypical,126,76.9
+H1496,North,0,60,32.4,ATYPICAL,119,99.4
+H0917,South,1,65,31.4,Non-anginal,136,199.1
