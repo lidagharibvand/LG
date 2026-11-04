@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "HALO: companion datasets and code for Modern Biostatistics for the Health Sciences and Biostatistics with R & AI"
+message: "If you use these datasets or this code, please cite them as below."
+type: dataset
+authors:
+  - family-names: Gharibvand
+    given-names: Lida
+    name-suffix: "MS, PhD"
+    affiliation: "School of Allied Health Professions, Loma Linda University Health"
+abstract: >-
+  HALO (Heart And Lipid Outcomes) is an original simulated health system created
+  for teaching biostatistics and health research methods. It comprises a
+  randomized lipid-lowering trial of 2,000 participants, a clinic panel of 6,000
+  patients, a long-format repeated-measures file, a hospital encounter extract, a
+  patient experience survey, a ward log and five years of service-area vital
+  statistics. The files carry documented planted errors so that data quality can
+  be taught by finding faults rather than by describing them. Nothing in HALO is
+  real: no participant, clinic, ward, physician or treatment in it exists, and no
+  figure computed from it describes any real population.
+keywords:
+  - biostatistics
+  - health research methods
+  - simulated data
+  - teaching datasets
+  - research design
+  - R
+version: "1.0"
+date-released: 2026-11-04
+license-url: "https://github.com/lidagharibvand/LG/blob/main/LICENSE"
+url: "https://github.com/lidagharibvand/LG"
+repository-code: "https://github.com/lidagharibvand/LG"
