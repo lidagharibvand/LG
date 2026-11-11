@@ -6,8 +6,8 @@
 ## with its Using R box number or listing number so the script and the book
 ## can be read side by side.
 ##
-## Run from the top of the companion repository, where datasets/ lives:
-##   Rscript scripts/chapter04.R
+## Run from the top of Volume-II, where datasets/ lives:
+##   Rscript code/chapter04.R
 ##
 ## ==========================================================================
 
